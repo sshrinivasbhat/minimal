@@ -10,15 +10,22 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Baseband Design Portfolio
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## 5G-NR Baseband Architect
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Development of 5G-NR DU Baseband architecture
+>> Reference Model of SISO,MIMO and Massive MIMO Models
+>> Design of Massive MIMO based on SRS and CSI-RS
+>> Design of Channel Estimator
+>> Design of MMSE-IRC , MMSE and ZF Equalizer
+>> Internumerolgy interference Mitigation 
+>> Ducting Interference Mitigation Scheme based on RIM-RS
+>> LDPC Reference Model design
+>> ML Based Scheduler 
+
 
 ### Header 3
 
